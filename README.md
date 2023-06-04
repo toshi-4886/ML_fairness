@@ -8,3 +8,6 @@ Demographic Parityによる機械学習モデルの評価
 - [2_equalized_odds.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/2_equalized_odds.ipynb)  
 Equalized Oddsによる機械学習モデルの評価  
 
+- [3_reduction.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/3_reduction.ipynb)  
+Reductionによる公平な機械学習モデルの学習  
+
