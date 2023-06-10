@@ -11,3 +11,8 @@ Equalized Oddsによる機械学習モデルの評価
 - [3_reduction.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/3_reduction.ipynb)  
 Reductionによる公平な機械学習モデルの学習  
 
+- [4_preprocessing.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/4_preprocessing.ipynb)  
+Correlation Removerによる公平な機械学習モデルの学習  
+
+
+
