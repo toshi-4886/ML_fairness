@@ -14,5 +14,8 @@ Reductionによる公平な機械学習モデルの学習
 - [4_preprocessing.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/4_preprocessing.ipynb)  
 Correlation Removerによる公平な機械学習モデルの学習  
 
+- [5_postprocessing.ipynb](https://github.com/toshi-4886/ML_fairness/blob/main/group_fairness/5_postprocessing.ipynb)  
+Threshold Optimizerによる公平な機械学習モデルの学習
+
 
 
